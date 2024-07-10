@@ -3,6 +3,10 @@ const express = require("express");
 const db = require("./config/connection");
 const routes = require("./routes");
 
+app.post('/users', (req, res) => {
+  console.log(req.body);
+})
+
 const cwd = process.cwd();
 
 const PORT = process.env.PORT || 3001;
