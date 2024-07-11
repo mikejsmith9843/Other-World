@@ -11,15 +11,15 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/mikejsmith9843/MySpaces.git"
+        "url": "git+https://github.com/mikejsmith9843/Other-World.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "git+https://github.com/mikejsmith9843/MySpaces/issues"
+        "url": "git+https://github.com/mikejsmith9843/Other-World/issues"
     },
-    "homepage": "https://github.com/mikejsmith9843/MySpaces#readme",
+    "homepage": "https://github.com/mikejsmith9843/Other-World#readme",
     "dependencies": {
         "express": "^4.19.2",
         "mongoose": "^8.5.0"
