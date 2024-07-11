@@ -25,8 +25,14 @@ With the exception of the challenges faced, I did learn yet another powerful too
 ## Live Screen Recording
 
 
-## Screenshots
+https://github.com/mikejsmith9843/Other-World/assets/151273894/f394c3a5-971f-4a5b-a8e5-f55eb107085a
 
+
+
+## Screenshots
+![Screenshot 2024-07-09 192301](https://github.com/mikejsmith9843/Other-World/assets/151273894/596c8bdb-fe25-4d5b-9e89-defc9319376a)
+
+![Week-18 challenge](https://github.com/mikejsmith9843/Other-World/assets/151273894/7883be2f-d10f-4f18-ac26-ee8140a4868d)
 
 ## Tech Used
 This application is powered by Node.js (v16.19.1), Express.js (v.14.18.2), JavaScript, MongoDB, and Mongoose (ODM). It utilizes the node package manager (npm) dependencies express (v4.18.2), and mongoose (v7.2.2). Nodemon (v2.0.22) was utilized as a devDependency allowing the server to refresh when edits were made to application. Jest (v.29.5.0) is installed as a devDependency for future unit testing. MongoDB Compass acted as the interactive shell used to visually see the database. Also, the Insomnia application, was utilized to test the functionality of routes within the program.
